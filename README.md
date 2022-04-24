@@ -1,0 +1,2 @@
+# Grab-Maths-Marks-App
+This is the link to the Figma prototype file for the Mobile App that I am planning to develop to help Primary, Middle and High School students to get centum marks in their all Maths exams. The App clearly explains the concept of the topics, gives relevant worked out examples and exercises with solutions and explanations. This Mobile App is going to be developed for Android and iOS platforms. 
